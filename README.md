@@ -1,2 +1,2 @@
 # Network-Reduction
-This is a python code for reducing a full power system of South Korea to 10 regional units.
+These data are the results of reducing the full power system of South Korea into 10 regional units.
